@@ -1,2 +1,2 @@
 # hello-world
-a short description
+Let's say "Good to see you"

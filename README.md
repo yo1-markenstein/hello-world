@@ -1,2 +1,3 @@
 # hello-world
-Good to see you
+Let's say "Good to see you"
+"Lets make it better"
